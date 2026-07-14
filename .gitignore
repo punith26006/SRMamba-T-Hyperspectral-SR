@@ -1,0 +1,39 @@
+# Datasets (too large for GitHub)
+Dataset/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp scripts
+_temp_scripts/
+
+# Node modules (if any)
+node_modules/
+swiggy-evening-planner/
+
+# PowerPoint temp files
+~$*.pptx
